@@ -2,6 +2,8 @@
 
 > **Refreshment, Reimagined** - A premium website for Kyara Beverages, showcasing innovative millet-based fruit drinks with a modern, responsive design.
 
+## Live Demo: [Kyara Beverages](https://kyara-beverages-ashy.vercel.app/)
+
 ## 🚀 Project Overview
 
 This project is a complete website redesign for **Kyara Beverages**, a health-focused beverage company specializing in millet-based fruit drinks. The website combines modern web design principles with smooth user experience to represent the brand's mission of reimagining traditional refreshment.
